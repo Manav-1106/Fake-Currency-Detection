@@ -23,5 +23,5 @@ This project focuses on identifying fake currency notes using a Convolutional Ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fake_Currency_Detection.git
-   cd Fake_Currency_Detection
+   git clone https://github.com/Manav-1106/Fake-Currency-Detection.git
+   cd Fake-Currency-Detection
